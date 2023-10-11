@@ -34,7 +34,7 @@ html {
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #ede0d4;
+  background-color: #7b6856;
 }
 
 .box-container {
@@ -64,18 +64,19 @@ img {
 }
 
 h2 {
-  color: rgb(104, 64, 19);
+  color: rgb(215, 175, 129);
+  font-size: xx-large;
 }
 
 .item:nth-child(1) {
   font-size: 0.8rem;
-  color: rgb(164, 95, 34);
+  color: rgb(208, 120, 43);
 }
 
 .item:nth-child(4) {
   font-size: 3rem;
   font-weight: bold;
-  color: rgb(138, 86, 41);
+  color: rgb(116, 73, 36);
 }
 
 .button-flex-box {
@@ -88,6 +89,7 @@ h2 {
   margin-left: 3rem;
   margin-right: 3rem;
 }
+
 .button {
   color: white;
   font-weight: bold;
